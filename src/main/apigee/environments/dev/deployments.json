@@ -1,0 +1,11 @@
+{
+  "proxies": [
+    {
+      "name": "OAuth"
+    },
+    {
+      "name": "TradingAPI-v1"
+    }
+  ],
+  "sharedflows": []
+}

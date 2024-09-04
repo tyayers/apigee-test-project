@@ -1,0 +1,10 @@
+[
+  {
+    "enabled": true,
+    "name": "energy-trading-service",
+    "description": "energy-trading-service",
+    "host": "192.168.9.2",
+    "protocol": "HTTP",
+    "port": 8080
+  }
+]
